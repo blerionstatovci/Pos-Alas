@@ -1,0 +1,56 @@
+    <!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Pyetjet e chatbot-it</title></head>
+<body>
+<p>1. Sa është totali i tavolinës 1?</p>
+<p>2. Çka ka porositur tavolina 2?</p>
+<p>3. Sa artikuj ka tavolina 3?</p>
+<p>4. Cilat tavolina janë të zëna?</p>
+<p>5. Cilat tavolina janë të lira?</p>
+<p>6. Sa tavolina janë të zëna?</p>
+<p>7. Sa tavolina janë të lira?</p>
+<p>8. Cila tavolinë ka totalin më të lartë?</p>
+<p>9. Cila tavolinë ka faturën më të vogël?</p>
+<p>10. Sa është totali i të gjitha tavolinave aktive?</p>
+<p>11. Sa kafe ka tavolina 4?</p>
+<p>12. A ka tavolina 5 ndonjë ëmbëlsirë?</p>
+<p>13. Sa pije ka tavolina 6?</p>
+<p>14. Cili është artikulli i fundit në tavolinën 1?</p>
+<p>15. Cilat produkte janë në tavolinën 7?</p>
+<p>16. A ka tavolina 2 porosi të reja?</p>
+<p>17. Sa persona ka tavolina 3?</p>
+<p>18. Cila është gjendja e tavolinës 4?</p>
+<p>19. Kush është kamarieri i tavolinës 5?</p>
+<p>20. Sa kohë ka që është hapur tavolina 1?</p>
+<p>21. Cila tavolinë ka më së shumti artikuj?</p>
+<p>22. Cila tavolinë ka më së paku artikuj?</p>
+<p>23. Cila tavolinë ka porosinë më të re?</p>
+<p>24. Cila tavolinë ka pritur më gjatë?</p>
+<p>25. Sa porosi aktive kam?</p>
+<p>26. Sa duhet të paguajë tavolina 1?</p>
+<p>27. A është paguar tavolina 2?</p>
+<p>28. Cilat tavolina presin pagesën?</p>
+<p>29. Sa kushton porosia e fundit e tavolinës 3?</p>
+<p>30. A ka tavolina 4 zbritje?</p>
+<p>31. Sa është totali pa zbritje i tavolinës 5?</p>
+<p>32. A ka tavolina 6 Coca-Cola?</p>
+<p>33. Sa espresso ka tavolina 7?</p>
+<p>34. A ka tavolina 8 ndonjë porosi?</p>
+<p>35. Cilat tavolina kanë porosi aktive?</p>
+<p>36. Cilat porosi presin të dërgohen?</p>
+<p>37. Cilat porosi janë duke u përgatitur?</p>
+<p>38. Cilat porosi janë gati për shërbim?</p>
+<p>39. A ka tavolina porosi të vonuara?</p>
+<p>40. A ka tavolina porosi të papërfunduara?</p>
+<p>41. Shto një Coca-Cola në tavolinën 1.</p>
+<p>42. Shto dy espresso në tavolinën 2.</p>
+<p>43. Shto një ujë në tavolinën 3.</p>
+<p>44. Hiqe artikullin e fundit nga tavolina 4.</p>
+<p>45. Ma hap tavolinën 5.</p>
+<p>46. Kalo te tavolina 6.</p>
+<p>47. Mbylle tavolinën 7.</p>
+<p>48. Më trego porosinë e plotë të tavolinës 8.</p>
+<p>49. Sa është shuma e tavolinës 10?</p>
+<p>50. Çka kam në tavolinën 12?</p>
+</body>
+</html>
